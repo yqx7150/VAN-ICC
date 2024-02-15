@@ -23,4 +23,16 @@ Left: The training process of VAN-ICC-I. Right: The training process of VAN-ICC-
 
 (a) Comparison of compression results on brain dataset for different methods. (b) Comparison of compression results on cardiac dataset for different methods. Complex-valued PI reconstruction results and the intensity of residual maps is five times magnified. (c) Re-construction results by L1-SPIRiT of the under-sampled cardiac dataset compressed by different methods. Bottom: The 15x absolute difference images between the reference image and reconstruction images.
 
-    
+### Other Related Projects
+
+  * Variable Augmented Network for Invertible Modality Synthesis and Fusion  
+[<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/abstract/document/10070774)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/iVAN)    
+  
+  * Variable Augmented Network for Invertible Decolorization (基于辅助变量增强的可逆彩色图像灰度化)  
+[<font size=5>**[Paper]**</font>](https://jeit.ac.cn/cn/article/doi/10.11999/JEIT221205?viewType=HTML)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/VA-IDN)    
+
+ * Virtual coil augmentation for MR coil extrapoltion via deep learning  
+[<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S0730725X22001722)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/VCA)    
+
+  * Synthetic CT Generation via Invertible Network for All-digital Brain PET Attenuation Correction  
+[<font size=5>**[Paper]**</font>](https://arxiv.org/abs/2310.01885)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/PET_AC_sCT)        
