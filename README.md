@@ -8,7 +8,7 @@ To improve the efficiency of multi-coil data compression and recover the compres
        
         
 ## The training and testing procedure of VAN-ICC
- <div align="center"><img src="https://github.com/yqx7150/VAN-ICC/blob/main/Fig2.jpg" width = "400" height = "450">  </div>
+ <div align="center"><img src="https://github.com/yqx7150/VAN-ICC/blob/main/Fig2.jpg"> </div>
  
 Here we take the coil numbers of the input and compressed objects to be 12 and 4 in VAN-ICC-K for example. Average (Ave) denotes the average operator conducted across the channel directions.
 
