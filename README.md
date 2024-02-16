@@ -18,7 +18,7 @@ Here we take the coil numbers of the input and compressed objects to be 12 and 4
 Left: The training process of VAN-ICC-I. Right: The training process of VAN-ICC-K. The differences between VAN-ICC-I and VAN-ICC-K are the IFFT and SOS module and that the input and output of VAN-ICC-K are in k-space domain. IFFT stands for the inverse FFT. Average denotes the average operator conducted across the channel directions.
 
 
-## Compression and reconstruction experiments on image domain.
+## Compression and reconstruction experiments on image domain
 <div align="center"><img src="https://github.com/yqx7150/VAN-ICC/blob/main/Fig4.jpg"> </div>
 
 (a) Comparison of compression results on brain dataset for different methods. (b) Comparison of compression results on cardiac dataset for different methods. Complex-valued PI reconstruction results and the intensity of residual maps is five times magnified. (c) Re-construction results by L1-SPIRiT of the under-sampled cardiac dataset compressed by different methods. Bottom: The 15x absolute difference images between the reference image and reconstruction images.
